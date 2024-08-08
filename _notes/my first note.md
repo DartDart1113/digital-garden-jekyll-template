@@ -1,3 +1,6 @@
+---
+---
+
 ```
 --- title:my first note ---
 ```
