@@ -1,5 +1,4 @@
-```
---- title:Digital Spelunking---
-```
+
+---title:Digital Spelunking---
 
 https://hypertextliterature.netlify.app
