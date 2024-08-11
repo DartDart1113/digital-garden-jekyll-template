@@ -1,6 +1,7 @@
-```
----title:DG Update 1 - August 11th 2024---
-```
+---
+title: DG Update 1
+---
+
 **Date Published: August 11th 2024**
 
 I can't  remember how I stumbled on the work of Maggie Appleton and the concept of digital gardens. What I won't forget is how excited I felt  when I looked through Maggie's site for the first time and read about the ethos of digital gardening. It's a rather niche thing, and I'd be rather shocked if more than a few people ever saw my corner of the internet. But it's mine to cultivate and to grow. Through that process, I want to document my challenges and triumphs here.
