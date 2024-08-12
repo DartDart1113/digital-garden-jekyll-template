@@ -1,4 +1,4 @@
 ---
 title: Digital Spelunking
 ---
-https://hypertextliterature.netlify.app
+<https://hypertextliterature.netlify.app>
