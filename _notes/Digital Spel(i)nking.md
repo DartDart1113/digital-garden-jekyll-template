@@ -1,5 +1,5 @@
 ---
-title: Digital Spelunking
+title: Digital Spel(i)nking
 ---
 <https://hypertextliterature.netlify.app>
 <http://swoleateveryheight.blogspot.com>

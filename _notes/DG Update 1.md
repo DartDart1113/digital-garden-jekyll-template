@@ -11,7 +11,7 @@ So far, setting up this site was easier than I thought it would be. It's a far c
 Having gotten this minimal viable digital garden set up, there's a few 'next steps' I have in mind:
 - **Learn more about Jekyll.** This site is being built of a template created with Jekyll and I feel that I will need to better understand Jekyll as I start to build out this site. I do feel that eventually Jekyll will not be able to provide the functionality I need. However, that's not going to be for a decent while, if at all.
 
-- **Fix links.** A major impetus for my creation of a live website was the ability to aggregate links to interesting internet locales. I think links are amazing and mysterious and fun. It's something the internet needs more of. I've tried posting some in [[Digital Spelunking]] but they aren't working. I need to figure out why and how to fix it.
+- **Fix links.** A major impetus for my creation of a live website was the ability to aggregate links to interesting internet locales. I think links are amazing and mysterious and fun. It's something the internet needs more of. I've tried posting some in [[Digital Spel(i)nking]] but they aren't working. I need to figure out why and how to fix it.
 
 - **Clean up landing page.** The current landing page needs a little filling out as it's still mostly the same as the one provided by the template. I think I need to add a preface or explanation. 
 
